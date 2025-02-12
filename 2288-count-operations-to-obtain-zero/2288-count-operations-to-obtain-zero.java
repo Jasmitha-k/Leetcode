@@ -1,0 +1,21 @@
+class Solution {
+    public int countOperations(int num1, int num2) {
+        int count=0;
+        while(num1!=0 && num2!=0){
+            if(num1<num2){
+                num2=num2-num1;
+            }
+            else if(num1>num2){
+                num1=num1-num2;
+            }
+            else{
+                num1=0;
+                count+=1;
+                break;
+            }
+            count+=1;
+        }
+        return count;
+        
+    }
+}
