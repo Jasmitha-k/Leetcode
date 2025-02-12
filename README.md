@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jasmitha-k/Leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Jasmitha-k/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Jasmitha-k/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/Jasmitha-k/Leetcode/tree/master/0792-binary-search) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Jasmitha-k/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Jasmitha-k/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Jasmitha-k/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/Jasmitha-k/Leetcode/tree/master/0792-binary-search) |
 ## Matrix
